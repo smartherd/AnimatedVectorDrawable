@@ -1,0 +1,2 @@
+# AnimatedVectorDrawable
+Animate vector drawables using AnimatedVectorDrawable and AnimatedVectorDrawableCompat classes
